@@ -1,0 +1,19 @@
+[project]
+name = "supportops-agent-lab"
+version = "0.1.0"
+description = "Laboratorio didatico de agentes com FastAPI, Gemini, FAISS e DeepEval"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi>=0.115,<1",
+    "uvicorn[standard]>=0.30,<1",
+    "pydantic>=2.7,<3",
+    "langgraph>=0.2,<1",
+    "google-genai>=1.0,<2",
+    "numpy>=1.26,<3",
+    "faiss-cpu==1.9.0.post1",
+    "deepeval>=2.0,<3",
+]
+
+[tool.supportops-agent]
+course = "IA para Devs"
+week = "Semana 4"

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ROLE-SALES-MANAGER",
+    "name": "sales_manager",
+    "permission_ids": ["PERM-DASHBOARD-REVENUE", "PERM-REPORT-VIEW"]
+  },
+  {
+    "id": "ROLE-ANALYST",
+    "name": "analyst",
+    "permission_ids": ["PERM-REPORT-VIEW", "PERM-REPORT-EXPORT"]
+  },
+  {
+    "id": "ROLE-RISK-VIEWER",
+    "name": "risk_viewer",
+    "permission_ids": ["PERM-DASHBOARD-RISK"]
+  }
+]
+

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "analytics-api",
+    "name": "Analytics API",
+    "status": "degraded",
+    "latency_ms": 240,
+    "error_rate": 0.04,
+    "last_checked_at": "2026-04-30T19:00:00Z"
+  },
+  {
+    "id": "identity-api",
+    "name": "Identity API",
+    "status": "healthy",
+    "latency_ms": 80,
+    "error_rate": 0.001,
+    "last_checked_at": "2026-04-30T19:00:00Z"
+  }
+]
+

@@ -1,0 +1,15 @@
+[
+  {
+    "id": "FF-101",
+    "service_id": "analytics-api",
+    "name": "permission_cache_v2",
+    "enabled": true
+  },
+  {
+    "id": "FF-102",
+    "service_id": "analytics-api",
+    "name": "async_report_export",
+    "enabled": true
+  }
+]
+

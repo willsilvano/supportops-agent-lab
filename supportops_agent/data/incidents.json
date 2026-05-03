@@ -1,0 +1,23 @@
+[
+  {
+    "id": "INC-7001",
+    "service_id": "analytics-api",
+    "title": "Cache de permissoes atrasado apos alteracao de role",
+    "status": "resolved",
+    "severity": "sev2",
+    "started_at": "2026-04-20T10:00:00Z",
+    "resolved_at": "2026-04-20T11:05:00Z",
+    "summary": "Usuarios com roles atualizadas receberam 403 ate invalidacao do cache."
+  },
+  {
+    "id": "INC-7002",
+    "service_id": "analytics-api",
+    "title": "Degradacao em exportacao de relatorios",
+    "status": "investigating",
+    "severity": "sev3",
+    "started_at": "2026-04-29T08:40:00Z",
+    "resolved_at": null,
+    "summary": "Fila de exportacao com aumento de latencia."
+  }
+]
+

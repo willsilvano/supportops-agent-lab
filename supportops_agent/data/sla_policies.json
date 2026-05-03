@@ -1,0 +1,13 @@
+[
+  {
+    "id": "enterprise",
+    "response_minutes": 30,
+    "resolution_hours": 8
+  },
+  {
+    "id": "business",
+    "response_minutes": 120,
+    "resolution_hours": 24
+  }
+]
+

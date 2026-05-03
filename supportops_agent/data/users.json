@@ -1,0 +1,30 @@
+[
+  {
+    "id": "USR-1001",
+    "name": "Maria Silva",
+    "email": "maria.silva@example.com",
+    "team": "sales",
+    "role_ids": ["ROLE-SALES-MANAGER"],
+    "tier": "enterprise",
+    "last_role_change_at": "2026-04-27T16:45:00Z"
+  },
+  {
+    "id": "USR-1002",
+    "name": "Joao Pereira",
+    "email": "joao.pereira@example.com",
+    "team": "finance",
+    "role_ids": ["ROLE-ANALYST"],
+    "tier": "business",
+    "last_role_change_at": "2026-03-20T12:00:00Z"
+  },
+  {
+    "id": "USR-1003",
+    "name": "Ana Costa",
+    "email": "ana.costa@example.com",
+    "team": "risk",
+    "role_ids": ["ROLE-RISK-VIEWER"],
+    "tier": "enterprise",
+    "last_role_change_at": "2026-04-30T18:00:00Z"
+  }
+]
+

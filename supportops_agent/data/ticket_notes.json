@@ -1,0 +1,10 @@
+[
+  {
+    "id": "NOTE-1",
+    "ticket_id": "TCK-4821",
+    "author": "system",
+    "body": "Cliente reportou erro 403 apos troca de role.",
+    "created_at": "2026-04-28T14:12:00Z"
+  }
+]
+

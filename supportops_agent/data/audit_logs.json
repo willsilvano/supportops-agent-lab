@@ -1,0 +1,24 @@
+[
+  {
+    "id": "AUD-3001",
+    "user_id": "USR-1001",
+    "event": "role_updated",
+    "details": "ROLE-ANALYST replaced by ROLE-SALES-MANAGER",
+    "created_at": "2026-04-27T16:45:00Z"
+  },
+  {
+    "id": "AUD-3002",
+    "user_id": "USR-1001",
+    "event": "access_denied",
+    "details": "403 on dashboard:revenue",
+    "created_at": "2026-04-28T14:05:00Z"
+  },
+  {
+    "id": "AUD-3003",
+    "user_id": "USR-1003",
+    "event": "access_denied",
+    "details": "403 on dashboard:risk",
+    "created_at": "2026-04-30T18:25:00Z"
+  }
+]
+

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "DEP-9001",
+    "service_id": "analytics-api",
+    "version": "2026.04.27",
+    "status": "succeeded",
+    "deployed_at": "2026-04-27T22:00:00Z"
+  },
+  {
+    "id": "DEP-9002",
+    "service_id": "analytics-api",
+    "version": "2026.04.29",
+    "status": "succeeded",
+    "deployed_at": "2026-04-29T07:30:00Z"
+  }
+]
+

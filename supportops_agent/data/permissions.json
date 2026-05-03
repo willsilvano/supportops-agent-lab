@@ -1,0 +1,23 @@
+[
+  {
+    "id": "PERM-DASHBOARD-REVENUE",
+    "resource": "dashboard:revenue",
+    "action": "view"
+  },
+  {
+    "id": "PERM-REPORT-VIEW",
+    "resource": "report:*",
+    "action": "view"
+  },
+  {
+    "id": "PERM-REPORT-EXPORT",
+    "resource": "report:export",
+    "action": "execute"
+  },
+  {
+    "id": "PERM-DASHBOARD-RISK",
+    "resource": "dashboard:risk",
+    "action": "view"
+  }
+]
+

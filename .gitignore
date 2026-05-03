@@ -1,0 +1,20 @@
+# Arquivos locais
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Artefatos locais de aula
+*.log
+.DS_Store
+
+# Solucoes do professor
+exercises/**/solutions/
+
